@@ -1,0 +1,3 @@
+[submodule "ArcheronLibrary"]
+	path = ArcheronLibrary
+	url = git@github.com:AcheronProject/AlexandriaLibrary.git
