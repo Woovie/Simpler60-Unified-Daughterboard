@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Acheron Connectors")(type "KiCad")(uri "${KIPRJMOD}/ArcheronLibrary/footprints/acheron_Connectors.pretty")(options "")(descr ""))
+  (lib (name "Acheron Components")(type "KiCad")(uri "${KIPRJMOD}/ArcheronLibrary/footprints/acheron_Components.pretty")(options "")(descr ""))
+  (lib (name "ai03 parts")(type "KiCad")(uri "${KIPRJMOD}/random-keyboard-parts.pretty")(options "")(descr ""))
+)

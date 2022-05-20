@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Acheron Symbols")(type "KiCad")(uri "${KIPRJMOD}/ArcheronLibrary/symbols/acheronSymbols.kicad_sym")(options "")(descr ""))
+  (lib (name "ai03 parts")(type "Legacy")(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+)
