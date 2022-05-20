@@ -1,3 +1,6 @@
 [submodule "ArcheronLibrary"]
 	path = ArcheronLibrary
 	url = git@github.com:AcheronProject/AlexandriaLibrary.git
+[submodule "random-keyboard-parts.pretty"]
+	path = random-keyboard-parts.pretty
+	url = git@github.com:ai03-2725/random-keyboard-parts.pretty.git
